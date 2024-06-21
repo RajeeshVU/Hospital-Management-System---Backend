@@ -6,6 +6,8 @@
 # Logs
 logs
 *.log
+warn.log*
+info.log*
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
